@@ -30,7 +30,8 @@ follows immediately after the element with an id of ball
   left: 455px;
 }
 
-/* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
+/* Select the image that has an attribute value matching "Kitty 5"
+(using attribute selector) */
 
 /*__write_selector_here__*/ {
   position: absolute;
